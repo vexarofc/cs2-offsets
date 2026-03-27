@@ -1,2 +1,2 @@
 # CS2 Offsets
-Last Update: `2026-03-27 19:09:46`
+Last Update: `2026-03-27 19:11:51`
