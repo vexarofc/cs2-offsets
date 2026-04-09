@@ -1,4 +1,4 @@
-// 2026-04-03 08:42:59.102366700 UTC
+// 2026-04-09 07:54:47.134668900 UTC
 
 #pragma once
 
@@ -218,6 +218,10 @@ namespace cs2_dumper {
         // Module: v8system.dll
         namespace v8system_dll {
             constexpr std::ptrdiff_t Source2V8System001 = 0x316B0;
+        }
+        // Module: vconcomm.dll
+        namespace vconcomm_dll {
+            constexpr std::ptrdiff_t VConComm001 = 0x39540;
         }
         // Module: vphysics2.dll
         namespace vphysics2_dll {
